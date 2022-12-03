@@ -1,1 +1,4 @@
+# Ignore all files with the extension below
+
 *.gz
+*.csv
