@@ -1,4 +1,5 @@
 # Ignore all files with the extension below
 
 *.gz
-*.csv
+data.csv
+trade-analysis.ipynb
